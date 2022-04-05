@@ -2,4 +2,13 @@ body {
     background-image: url('../img/background.webp');
     background-position: center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #970202;
+    background-size: cover;
+    color: black;
+    font-size: large;
+    font-weight: bold; 
+}
+header {
+    font-size: x-large;
 }
